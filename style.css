@@ -1,1 +1,32 @@
-body {background-color: RED};
+
+
+
+/* STYLE NAV BAR */
+.nav-list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style-type: none;
+  background-color: #fffef9;
+  overflow: hidden;
+  padding: 1em;
+}
+
+.nav-right {
+  color: #2B2B2A;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-list li a{
+  text-decoration: none;
+  color: #2B2B2A;
+  font-size: 1.3em;
+  padding: 1em;
+}
+
+.nav-list li a:hover {
+  background-color: #1d2d44;
+}
+<nav\>
