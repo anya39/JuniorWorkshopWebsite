@@ -1,4 +1,4 @@
-/*global reset*/
+/*GLOBAL RESET*/
 *{
   margin: 0;
   padding: 0;
@@ -23,7 +23,6 @@ body {
   flex-wrap: wrap;
   gap: 1em;
   text-align: center;
-
 }
 
 .nav-right {
@@ -78,8 +77,6 @@ body {
   display: flex;
   justify-content: center;
   align-items: center
-  
-
 }
 
 .book-page{
